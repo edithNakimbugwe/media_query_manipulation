@@ -43,7 +43,7 @@ class HomePage extends StatelessWidget {
         width: size.width * 0.8,
         height: size.height * 0.8,
         decoration: const BoxDecoration(color: Colors.amber),
-        child: const Center(child: Text('Potrait')),
+        child: const Center(child: Text('This is the Potrait view')),
       ),
     );
   }

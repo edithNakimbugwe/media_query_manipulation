@@ -54,7 +54,7 @@ class HomePage extends StatelessWidget {
         width: size.width * 0.8,
         height: size.height * 0.8,
         decoration: const BoxDecoration(color: Colors.blue),
-        child: const Center(child: Text('This is the Landscape view')),
+        child: const Center(child: Text('This is the Landscape HFFVDJFDHGJFGGFGFGJGFJFGFGFGFG view')),
       ),
     );
   }
